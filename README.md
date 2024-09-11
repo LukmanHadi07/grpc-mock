@@ -7,7 +7,7 @@ grpc-mock implements the grpc mock server by reflections of `.proto` files inste
 ## From Source
 Use `go` tool to install:
 ```shell
-go get github.com/monlabs/grpc-mock/cmd/grpc-mock
+go get github.com/LukmanHadi07/grpc-mock/cmd/grpc-mock
 ```
 # Usage
 ## Quickstart
